@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Fitria
+ * @author Fitria Khoirunnisa
  */
 public class C_Text_Preprocessing {
    
