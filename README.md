@@ -2,7 +2,7 @@
 Java Programming Language
 
 # Text Mining
-Documentation with text preprocessing and stemming into a word
+Documentation with text preprocessing into a word
 
 # N-Gram Features
 A word with N-Gram becomes a character
