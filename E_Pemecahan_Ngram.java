@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Fitria
+ * @author Fitria Khoirunnisa
  */
 
 public class E_Pemecahan_Ngram {
