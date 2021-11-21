@@ -10,7 +10,7 @@ import java.util.Collections;
 
 /**
  *
- * @author Fitria
+ * @author Fitria Khoirunnisa
  */
 
 public class B_KFold_CrossValidation {
