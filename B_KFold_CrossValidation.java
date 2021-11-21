@@ -124,24 +124,4 @@ public class B_KFold_CrossValidation {
             kategori_fold_latih_list.add(kategori_latih);
         }
     }
-    
-    public ArrayList<String[]> getKFoldNamaFileUji(){
-        return nama_file_fold_uji_list;
-    }
-        
-    public ArrayList<String[]> getKFoldUji(){
-        return doc_fold_uji_list;
-    }
-     
-    public ArrayList<String[]> getKFoldKategoriUji(){
-        return kategori_fold_uji_list;
-    }
-      
-    public ArrayList<String[]> getKFoldLatih(){
-        return doc_fold_latih_list;
-    }
-    
-    public ArrayList<String[]> getKFoldKategoriLatih(){
-        return kategori_fold_latih_list;
-    }
 }
