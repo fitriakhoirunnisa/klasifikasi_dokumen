@@ -7,7 +7,7 @@ package Controller;
 
 /**
  *
- * @author Fitria
+ * @author Fitria Khoirunnisa
  */
 
 public class G_NBC_Klasifikasi { 
