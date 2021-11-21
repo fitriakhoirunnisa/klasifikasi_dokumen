@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Fitria
+ * @author Fitria Khoirunnisa
  */
 
 public class F_Term_Frequency {
