@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Fitria
+ * @author Fitria Khoirunnisa
  */
 
 public class D_Proses_Stemming {
